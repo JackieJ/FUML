@@ -9,6 +9,7 @@ A UML/PlantUML based dynamic system design simulator. It features:
 * mocking system components IO and isolation testing
 * configurable system verifier 
 * configurable load tester
+* toy system factory: docker-compose generator based on UML diagrams
 
 ## Motivation 
 ### Preface - A Rant About Software Eningeering Interview Prepping
