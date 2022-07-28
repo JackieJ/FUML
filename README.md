@@ -2,7 +2,7 @@
 Flowing UML - Making System Design Fun Again
 
 ## What's This
-A UML/PlantUML based dynamic system design simulator. It features:
+A UML/PlantUML based dynamic distributed system simulator. It features:
 * basic UML/PlantUML language support
 * common system components with their behaviors simulated and configurable (db schema, partitions, IO patterns, network, API, etc)
 * configurable live data flow simulation among system components
